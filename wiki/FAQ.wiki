@@ -8,7 +8,7 @@ Kou is a special cow character I've made. You can see Kou at the [http://superko
 
 ==== 2. KouChat crashed, or behaves strangely. ====
 
-If you run KouChat from a console, you can capture the output and help me fix it. Like this: _java -jar kouchat-x.x.x-bin.jar_
+The easiest way to find the problem is for you to run KouChat from the console, like this: _java -jar kouchat-x.x.x-bin.jar_. If you see any errors, write them down. When you can reproduce the problem, report it as an issue on this project page with as many details as possible.
 
 
 ==== 3. I minimized KouChat, and it's not visible on the taskbar anymore. ====
