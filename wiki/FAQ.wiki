@@ -1,26 +1,31 @@
 #labels Featured
 = Frequently Asked Questions =
 
-==== 1. KouChat crashed, or behaves strangely. ====
+==== 1. What is Kou? ====
 
-The easiest way to find the problem is for you to run KouChat from the console, like this: _java -jar kouchat-x.x.x-bin.jar_. If you see any errors, write them down. When you can reproduce the problem, report it as an issue on this project page with as many details as possible.
+Kou is a special cow character I've made. You can see Kou at the [http://superkou.googlecode.com/ Super Kou] project page. Kou is pronounced kind of like cows say _mooooooo_.
 
 
-==== 2. I minimized KouChat, and it's not visible on the taskbar anymore. ====
+==== 2. KouChat crashed, or behaves strangely. ====
+
+If you run KouChat from a console, you can capture the output and help me fix it. Like this: _java -jar kouchat-x.x.x-bin.jar_
+
+
+==== 3. I minimized KouChat, and it's not visible on the taskbar anymore. ====
 
 Have a look in the system tray. There should be a small black and white icon there with a cow pattern. Click on it to open KouChat again.
 
 
-==== 3. How do I change my nick name? ====
+==== 4. How do I change my nick name? ====
 
 Open the Tools menu, and choose Settings.
 
 
-==== 4. How do I send files? ====
+==== 5. How do I send files? ====
 
 Right click on a user in the user list on the right side, and choose _"Send file"_. You can also drag and drop a file on a user in the list, or in a private chat window.
 
 
-==== 5. How do I open a private chat? ====
+==== 6. How do I open a private chat? ====
 
 You can double click on a user in the user list, or you can right click on a user in the user list and choose _"Private chat"_.
