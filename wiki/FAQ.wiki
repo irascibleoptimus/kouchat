@@ -31,6 +31,6 @@ Right click on a user in the user list on the right side, and choose _"Send file
 You can double click on a user in the user list, or you can right click on a user in the user list and choose _"Private chat"_.
 
 
-===== 7. The file chooser is horribly slow in Windows XP. ====
+==== 7. The file chooser is horribly slow in Windows XP. ====
 
 This is a Java bug, see http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=6578753. As a workaround you can move any zip-files lying on the desktop to some other folder.
