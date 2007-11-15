@@ -1,6 +1,3 @@
-#summary Frequently Asked Questions
-#labels Featured
-
 = Frequently Asked Questions =
 
 ==== 1. KouChat crashed, or behaves strange. ====
