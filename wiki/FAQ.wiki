@@ -1,7 +1,7 @@
 #labels Featured
 = Frequently Asked Questions =
 
-==== 1. KouChat crashed, or behaves strange. ====
+==== 1. KouChat crashed, or behaves strangely. ====
 
 If you run KouChat from a console, you can capture the output and help me fix it. Like this: _java -jar kouchat-x.x.x-bin.jar_
 
