@@ -39,3 +39,7 @@ This is a Java bug, see http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=65787
 ==== 8. How do I enable console mode? ====
 
 From a console, run KouChat like this: _java -jar kouchat-x.x.x-bin.jar -console_. See _/help_ for a list of commands you can use while in console mode.
+
+==== 9. How come some messages don't show up in other clients? ====
+
+That's probably because of packet loss. KouChat uses the UDP protocol, which does not resend lost packets. Packet loss is usually not a problem in wired networks, but wireless networks might have some loss.
