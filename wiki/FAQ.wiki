@@ -18,7 +18,7 @@ Have a look in the system tray. There should be a small black and white icon the
 
 ==== 4. How do I change my nick name? ====
 
-Open the Tools menu, and choose Settings.
+Open the _Tools_ menu, and choose _Settings_.
 
 
 ==== 5. How do I send files? ====
@@ -38,8 +38,12 @@ This is a Java bug, see http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=65787
 
 ==== 8. How do I enable console mode? ====
 
-From a console, run KouChat like this: _java -jar kouchat-x.x.x-bin.jar -console_. See _/help_ for a list of commands you can use while in console mode.
+From a console, run KouChat like this: _java -jar kouchat-x.x.x-bin.jar --console_. See _/help_ for a list of commands you can use while in console mode.
 
 ==== 9. How come some messages don't show up in other clients? ====
 
-That's probably because of packet loss. KouChat uses the UDP protocol, which does not resend lost packets. Packet loss is usually not a problem in wired networks, but wireless networks might have some loss.
+That's probably because of packet loss. KouChat use the UDP protocol, which does not resend lost packets. Packet loss is usually not a problem in wired networks, but wireless networks might have some loss.
+
+==== 10. Where do the log files go? ====
+
+The logs are put in the _~/.kouchat/logs/_ folder, sorted by date and time of creation. For those wondering, ~ means home folder. In Windows XP that's usually _C:\Documents and Settings\Your Username\_ and in Linux it's _/home/username/_.
