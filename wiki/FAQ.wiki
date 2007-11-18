@@ -47,3 +47,7 @@ That's probably because of packet loss. KouChat use the UDP protocol, which does
 ==== 10. Where do the log files go? ====
 
 The logs are put in the _~/.kouchat/logs/_ folder, sorted by date and time of creation. For those wondering, ~ means home folder. In Windows XP that's usually _C:\Documents and Settings\Your Username\_ and in Linux it's _/home/username/_.
+
+==== 11. Why was the user list empty when I started KouChat? ====
+
+Yeah well, that's a bug! It happens once every 100 times I start KouChat, so it's a hard bug to nail. But I'm trying :) To update the list, just type something in the chat.
