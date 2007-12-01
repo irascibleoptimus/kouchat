@@ -50,4 +50,4 @@ The logs are put in the _~/.kouchat/logs/_ folder, sorted by date and time of cr
 
 ==== 11. Why was the user list empty when I started KouChat? ====
 
-Yeah well, that's a bug! It happens once every 100 times I start KouChat, so it's a hard bug to nail. But I'm trying :) To update the list, just type something in the chat.
+That was long known bug that I had a hard time finding. It should be fixed now, so please try using version 0.9.4 or newer.
