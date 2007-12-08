@@ -56,5 +56,5 @@ That was long known bug that I had a hard time finding. It should be fixed now, 
 
 That's because the Windows console uses the old DOS character sets instead of the normal Windows character sets. A common DOS charset is cp850 and a common Windows charset is cp1252. I've found 2 ways to go around this problem:
 
-  # Change the console charset to match the Windows charset. Use the command _chcp_ and the charset number for your system to switch, like _chcp 1252_. For this to work you need a console font which supports the chosen charset, like _Lucida Console_.
+  # Change the console charset to match the Windows charset. For this to work you need a console font which supports the chosen charset, like _Lucida Console_. Then use the command _chcp_ and the charset number for your system: _chcp 1252_.
   # Change the Java charset to match the console charset. You can get the current console charset by running the command _chcp_. Then use that when starting KouChat: _java -Dfile.encoding=850 -jar kouchat-x.x.x.jar --console_.
