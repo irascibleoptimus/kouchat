@@ -58,3 +58,7 @@ That's because the Windows console uses the old DOS character sets instead of th
 
   # Change the console charset to match the Windows charset. If your Windows charset is cp1252, just run the command _chcp 1252_ before starting KouChat like normal. For this to work you need a console font which supports the chosen charset, like _Lucida Console_.
   # Change the Java charset to match the console charset. You can get the current console charset by running the command _chcp_. Then use the charset number when starting KouChat: _java -Dfile.encoding=850 -jar kouchat-x.x.x.jar --console_.
+
+==== 13. Why is the option _"Use native look"_ disabled on some platforms? ====
+
+That happens if your platform does not have a SystemLookAndFeel. The most common platform without a SystemLookAndFeel is KDE, since the SystemLookAndFeel for Linux is GTK+ based, and will only be used in Gnome. See http://java.sun.com/docs/books/tutorial/uiswing/lookandfeel/plaf.html for more information about Look and Feels.
