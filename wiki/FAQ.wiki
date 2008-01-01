@@ -46,7 +46,13 @@ That's probably because of packet loss. KouChat use the UDP protocol, which does
 
 ==== 10. Where do the log files go? ====
 
-The logs are put in the _~/.kouchat/logs/_ folder, sorted by date and time of creation. For those wondering, ~ means home folder. In Windows XP that's usually _C:\Documents and Settings\Your Username\_ and in Linux it's _/home/username/_
+The logs are put in the _~/.kouchat/logs/_ folder, sorted by date and time of creation. For those wondering, ~ means home folder.
+
+Examples:
+
+  * *Windows XP* - _C:\Documents and Settings\Your Username\.kouchat\logs\_
+  * *Windows Vista* - _C:\Users\Your Username\.kouchat\logs\_
+  * *Linux* - _/home/username/.kouchat/logs/_
 
 ==== 11. Why was the user list empty when I started KouChat? ====
 
@@ -62,3 +68,14 @@ That's because the Windows console uses the old DOS character sets instead of th
 ==== 13. Why is the option _"Use native look"_ disabled on some platforms? ====
 
 That happens if your platform does not have a SystemLookAndFeel. The most common platform without a SystemLookAndFeel is KDE, since the SystemLookAndFeel for Linux is GTK+ based, and will only be used in Gnome. See http://java.sun.com/docs/books/tutorial/uiswing/lookandfeel/plaf.html for more information about Look and Feels.
+
+==== 14. Where can I find an icon to use for shortcuts? ====
+
+There is an icon available inside _kouchat-x.x.x.jar_, in two different
+formats:
+
+  * kou_shortcut.ico
+  * kou_shortcut.png
+
+To find these, you can just open the jar file in a decompression utility
+like WinZip or 7-Zip.
