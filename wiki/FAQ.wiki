@@ -8,7 +8,7 @@ Kou is a special cow character I've made. You can see Kou at the [http://superko
 
 ==== 2. KouChat crashed, or behaves strangely. ====
 
-First, make sure you are using the latest version. When you do, the easiest way to find the problem is for you to run KouChat from the console, like this: _java -jar kouchat-x.x.x.jar_. If you see any errors, write them down. When you can reproduce the problem, report it as an issue on this project page with as many details as possible.
+First, make sure you are using the latest version. When you do, the easiest way to find the problem is for you to run KouChat from the console, like this: _java -jar kouchat-x.x.x.jar_. If you see any errors, write them down. When you can reproduce the problem, report it as an issue on this project page with as many details as possible. Set _blurpy_ as the owner of the issue, so I'll be notified.
 
 
 ==== 3. I minimized KouChat, and it's not visible on the taskbar anymore. ====
@@ -42,7 +42,7 @@ From a console, run KouChat like this: _java -jar kouchat-x.x.x.jar --console_. 
 
 ==== 9. How come some messages don't show up in other clients? ====
 
-That's probably because of packet loss. KouChat use the UDP protocol, which does not resend lost packets. Packet loss is usually not a problem in wired networks, but wireless networks might have some loss.
+That's probably because of packet loss. KouChat uses the UDP protocol, which does not resend lost packets. Packet loss is usually not a problem in wired networks, but wireless networks might have some loss.
 
 ==== 10. Where do the log files go? ====
 
@@ -54,22 +54,18 @@ Examples:
   * *Windows Vista* - _C:\Users\Your Username\.kouchat\logs\_
   * *Linux* - _/home/username/.kouchat/logs/_
 
-==== 11. Why was the user list empty when I started KouChat? ====
-
-That was long known bug that I had a hard time finding. It should be fixed now, so please try using version 0.9.4 or newer.
-
-==== 12. Why do non-ascii characters look wrong when using console mode in Windows? ====
+==== 11. Why do non-ascii characters look wrong when using console mode in Windows? ====
 
 That's because the Windows console uses the old DOS character sets instead of the normal Windows character sets. A common DOS charset is cp850 and a common Windows charset is cp1252. I've found 2 ways to go around this problem:
 
   # Change the console charset to match the Windows charset. If your Windows charset is cp1252, just run the command _chcp 1252_ before starting KouChat like normal. For this to work you need a console font which supports the chosen charset, like _Lucida Console_.
   # Change the Java charset to match the console charset. You can get the current console charset by running the command _chcp_. Then use the charset number when starting KouChat: _java -Dfile.encoding=850 -jar kouchat-x.x.x.jar --console_.
 
-==== 13. Why is the option _"Use native look"_ disabled on some platforms? ====
+==== 12. Why is the option _"Use native look"_ disabled on some platforms? ====
 
 That happens if your platform does not have a SystemLookAndFeel. The most common platform without a SystemLookAndFeel is KDE, since the SystemLookAndFeel for Linux is GTK+ based, and will only be used in Gnome. See http://java.sun.com/docs/books/tutorial/uiswing/lookandfeel/plaf.html for more information about Look and Feels.
 
-==== 14. Where can I find an icon to use for shortcuts? ====
+==== 13. Where can I find an icon to use for shortcuts? ====
 
 There is an icon available inside _kouchat-x.x.x.jar_, in two different
 formats:
