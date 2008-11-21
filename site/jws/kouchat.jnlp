@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- KouChat Web Start Deployment -->
+<jnlp spec="1.0+" codebase="http://kouchat.googlecode.com/svn/site/jws/" href="kouchat.jnlp">
+  <information>
+    <title>KouChat</title>
+    <vendor>Christian Ihle</vendor>
+    <homepage href="http://kouchat.googlecode.com/"/>
+    <description>KouChat</description>
+    <description kind="short">KouChat</description>
+    <offline-allowed/>
+  </information>
+  <security>
+    <all-permissions/>
+  </security>
+  <resources>
+    <j2se href="http://java.sun.com/products/autodl/j2se" version="1.6+"/>
+    <jar href="http://kouchat.googlecode.com/files/kouchat-0.9.8.jar"/>
+  </resources>
+  <application-desc/>
+</jnlp>
