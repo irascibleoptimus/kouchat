@@ -27,3 +27,5 @@ Well, here's what you can expect in this release:
 You might also have noticed that I brushed up the web site with more screenshots and more information.
 
 Have fun :)
+
+-- Christian Ihle
