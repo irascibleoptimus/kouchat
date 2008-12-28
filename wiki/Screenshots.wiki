@@ -1,0 +1,54 @@
+#summary Screenshots of KouChat
+#labels Featured
+
+= Screenshots =
+
+<wiki:toc max_depth="2"/>
+
+This is a collection of screenshots showing KouChat v0.9.9 in different operating systems.
+
+== openSUSE ==
+
+openSUSE 11.0 with KDE 3.5. The look and feel used here is the new Nimbus from Java 6 update 10.
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_opensuse_nimbus.png
+
+=== File transfer ===
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_file_transfer_opensuse_nimbus.png
+
+=== Private chat ===
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_privchat_opensuse_nimbus.png
+
+=== Settings ===
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_settings_opensuse_nimbus.png
+
+== Kubuntu ==
+
+Kubuntu 8.04 with KDE 3.5. There is no native look and feel for KDE, so the default used is the multiplatform look and feel called Metal.
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_kubuntu_metal.png
+
+== Ubuntu ==
+
+Ubuntu 8.10 with Gnome, which makes Java default to the GTK+ look and feel.
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_ubuntu_gtk.png
+
+== Windows XP ==
+
+Normal Windows XP look.
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_windows_xp.png
+
+Windows XP Classic look.
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_windows_classic.png
+
+== Windows Vista ==
+
+Windows Vista also has a classic look like XP. Shown here is the normal Vista look.
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_windows_vista.png
