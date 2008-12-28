@@ -1,4 +1,6 @@
+#summary Frequently asked questions about KouChat
 #labels Featured
+
 = Frequently Asked Questions =
 
 ==== 1. What is Kou? ====
