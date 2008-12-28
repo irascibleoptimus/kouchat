@@ -1,6 +1,4 @@
-#summary Screenshots of KouChat
 #labels Featured
-
 = Screenshots =
 
 <wiki:toc max_depth="2"/>
