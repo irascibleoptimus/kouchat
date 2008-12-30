@@ -34,3 +34,8 @@ The last messages you wrote are saved in a history list (only in memory). Press 
 *6. Click on links*
 
 When URLs are written in the chat, they are made into links. Click on a link to open the URL in your browser. Which browser can be changed in the settings.
+
+
+*7. Double click to chat private*
+
+Double click on any user in the user list to start a private chat with that user.
