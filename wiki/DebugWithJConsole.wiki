@@ -15,7 +15,7 @@ http://kouchat.googlecode.com/svn/site/images/jconsole/jconsole_location.png
 
 = Debugging =
 
-Run JConsole like described above. You should see something like this:
+Run JConsole like described above, after you have started KouChat. You should see something like this:
 
 http://kouchat.googlecode.com/svn/site/images/jconsole/jconsole_connect_kouchat.png
 
@@ -23,7 +23,7 @@ Choose *kouchat-0.9.9.jar* and click *Connect*. Navigate here:
 
 http://kouchat.googlecode.com/svn/site/images/jconsole/jconsole_network_operations.png
 
-Those buttons on the left are the available operations. Now we can check what KouChat knows about your network. On my laptop the current network is cable:
+Those buttons on the right are the available operations. Now we can check what KouChat knows about your network. On my laptop the current network is cable:
 
 http://kouchat.googlecode.com/svn/site/images/jconsole/jconsole_current_network.png
 
