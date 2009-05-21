@@ -61,3 +61,10 @@ http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_windows_classi
 Windows Vista also has a classic look like XP. Shown here is the normal Vista look.
 
 http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_windows_vista.png
+
+
+== Mac OS X ==
+
+I don't have access to a Mac, but it seems [http://www.softpedia.com/ Softpedia] got KouChat to work in Mac OS X since they added v0.9.9 to the Mac download section. So I'm borrowing a screenshot from them:
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_mac_os_x.png
