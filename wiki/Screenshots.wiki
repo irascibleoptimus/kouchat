@@ -6,7 +6,7 @@
 
 <wiki:toc max_depth="2"/>
 
-This is a collection of screenshots showing KouChat v0.9.9 in different operating systems.
+This is a collection of screenshots showing KouChat in different operating systems.
 
 
 == openSUSE ==
