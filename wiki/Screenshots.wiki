@@ -68,3 +68,10 @@ http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_windows_vista.
 I don't have access to a Mac, but it seems [http://www.softpedia.com/ Softpedia] got KouChat to work in Mac OS X since they added v0.9.9 to the Mac download section. So I'm borrowing a screenshot from them. Shown here is Apple's Mac OS X look.
 
 http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_mac_os_x.png
+
+
+== Console ==
+
+This is how the console mode looks.
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_v1.0.0-dev_main_console.png
