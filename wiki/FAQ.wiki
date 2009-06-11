@@ -9,11 +9,12 @@
 Kou is a special cow character I've made. You can see Kou at the [http://superkou.googlecode.com/ Super Kou] project page. Kou is pronounced kind of like cows say _mooooooo_.
 
 
-==== 2. KouChat crashed, or behaves strangely ====
+==== 2. KouChat crashed, doesn't connect, or behaves strangely. ====
 
 First, make sure you are using the latest version. When you do, the easiest way to find the problem is for you to run KouChat from the console, like this: _java -jar kouchat-x.x.x.jar_.
+If you see any errors, write them down. If nothing of interest shows up, then you can try enabling debug output by running KouChat like this: _java -jar kouchat-x.x.x.jar --debug_.
 
-If you see any errors, write them down. When you can reproduce the problem, report it as an issue on this project page with as many details as possible.
+Please check the other wiki pages for help as well. When you can reproduce the problem, report it as an issue on this project page with as many details as possible.
 
 
 ==== 3. I minimized KouChat, and it's not visible on the taskbar anymore. ====
@@ -108,4 +109,9 @@ There are 11 different smileys available, for different needs. Try them :)
 
 ==== 15. Why is the window sometimes only maximized vertically or horizontally after being unhidden from the system tray? ====
 
-I don't know! I'm looking into it.
+I don't know! But I'm unable to reproduce the problem using early versions of Java 7, so I'm guessing it's not my bug ;)
+
+
+==== 16. I have a great suggestion for a new feature. What do I do? ====
+
+Cool :) Just register the suggestion on the issue tracker with "_feature request_" in the title.
