@@ -4,6 +4,18 @@
 = News =
 
 
+== 14.06.2009 - The road ahead ==
+
+Like so many other open source developers, I started KouChat because I had an itch to scratch. With 1.0 out the door, a big part of that itch has been scratched.
+
+But I'm not all done yet! I've added a [Roadmap roadmap] in the wiki with my current thoughts for the road ahead. This roadmap has earlier been in my head, and partially in todo lists as well. And now it's public. Think I'm taking the wrong path? Let me know! Have a good idea? Let me know then too! So, maybe I'll hear from you :)
+
+-- Christian Ihle
+
+
+----
+
+
 == 11.06.2009 - KouChat v1.0.0 is out! ==
 
 It's finally here :D
@@ -30,6 +42,9 @@ OK, enough babbling, here is a short summary of the most important changes:
 Have fun, and don't forget to submit those feature requests and bug reports in the issue tracker :)
 
 -- Christian Ihle
+
+
+----
 
 
 == 28.12.2008 - KouChat v0.9.9 is out! ==
