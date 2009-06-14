@@ -1,0 +1,29 @@
+#summary The road ahead for KouChat
+#labels Featured
+
+= Roadmap =
+
+This is my current plan for the future of KouChat. Don't rely on this plan! It can and probably will change, but I thought some of you might be interested in the road ahead. No dates are set, and that's on purpose. It's done when it's done :)
+
+If you have any suggestions, please use the issue tracker.
+
+
+== Version 1.1.0 ==
+
+  * Minimize on close (issue 8)
+  * Animated system tray icon (issue 11)
+  * Multi-line messages (issue 12)
+  * System tray balloon on new message (issue 13)
+
+
+== Version 2.0 ==
+
+  * Direct TCP/IP connection to users
+  * Point to point encryption (issue 4)
+  * Send all files in folder
+  * Only see users in specified group
+
+
+== Version 2.1 ==
+
+  * Internationalization
