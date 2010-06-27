@@ -26,6 +26,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import javax.inject.Inject;
+import javax.inject.Singleton;
 
 import net.usikkert.kouchat.reflect.GenericArgumentExtractor;
 import net.usikkert.kouinject.annotation.Component;
@@ -38,15 +39,29 @@ import org.apache.commons.lang.Validate;
  * @author Christian Ihle
  */
 @Component
+@Singleton
 public class MessageBusImpl implements MessageBus {
 
     private final List<MessageListenerHolder> messageListeners;
+    private final GenericArgumentExtractor genericArgumentExtractor;
 
     @Inject
-    private GenericArgumentExtractor genericArgumentExtractor;
+    public MessageBusImpl(final GenericArgumentExtractor genericArgumentExtractor) {
+        Validate.notNull(genericArgumentExtractor, "Generic argument extractor can not be null");
 
-    public MessageBusImpl() {
+        this.genericArgumentExtractor = genericArgumentExtractor;
         messageListeners = new ArrayList<MessageListenerHolder>();
+    }
+
+//    @Inject
+    public MessageBusImpl(final GenericArgumentExtractor genericArgumentExtractor,
+                           final List<MessageListener<?>> listeners) {
+        this(genericArgumentExtractor);
+        Validate.notNull(listeners, "Message listeners can not be null");
+
+        for (final MessageListener<?> messageListener : listeners) {
+            registerMessageListener(messageListener);
+        }
     }
 
     @Override
@@ -68,9 +83,5 @@ public class MessageBusImpl implements MessageBus {
                 holder.getMessageListener().handleMessage(message);
             }
         }
-    }
-
-    public void setGenericArgumentExtractor(final GenericArgumentExtractor genericArgumentExtractor) {
-        this.genericArgumentExtractor = genericArgumentExtractor;
     }
 }

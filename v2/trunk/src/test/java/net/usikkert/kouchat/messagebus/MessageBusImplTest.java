@@ -40,10 +40,8 @@ public class MessageBusImplTest {
 
     @Before
     public void createMessageBus() {
-        messageBus = new MessageBusImpl();
-
         final GenericArgumentExtractor genericArgumentExtractor = new GenericArgumentExtractorImpl();
-        messageBus.setGenericArgumentExtractor(genericArgumentExtractor);
+        messageBus = new MessageBusImpl(genericArgumentExtractor);
     }
 
     @Test

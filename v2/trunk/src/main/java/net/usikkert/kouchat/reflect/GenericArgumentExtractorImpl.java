@@ -25,6 +25,8 @@ package net.usikkert.kouchat.reflect;
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
 
+import javax.inject.Singleton;
+
 import net.usikkert.kouinject.annotation.Component;
 
 import org.apache.commons.lang.Validate;
@@ -35,6 +37,7 @@ import org.apache.commons.lang.Validate;
  * @author Christian Ihle
  */
 @Component
+@Singleton
 public class GenericArgumentExtractorImpl implements GenericArgumentExtractor {
 
     public Class<?> getGenericArgument(final Object objectWithGenericArgument, final Class<?> genericType) {
