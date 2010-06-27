@@ -1,0 +1,16 @@
+
+- KouChat README
+
+KouChat is a simple serverless chat client for local area networks.
+It's written in Java, and is free software.
+
+If you don't have Java installed, go to
+http://www.java.com/ and download Java SE 6 Runtime Environment.
+
+
+Copyright 2006-2010 Christian Ihle
+kontakt@usikkert.net
+http://kouchat.googlecode.com/
+
+Source available under the GNU GPLv3.
+See COPYING for details.
