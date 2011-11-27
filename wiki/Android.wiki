@@ -1,0 +1,7 @@
+#summary KouChat for Android
+#labels Featured
+
+I'm currently working on a port of KouChat to Android.
+The code is on GitHub this time: https://github.com/blurpy/kouchat-android
+
+I plan on releasing the first version shortly. Watch this wiki for a link to the application on Android Market when it's available :)
