@@ -2,6 +2,8 @@
 #labels Featured
 
 I'm currently working on a port of KouChat to Android.
-The code is on GitHub this time: https://github.com/blurpy/kouchat-android
+The code is available on GitHub: https://github.com/blurpy/kouchat-android
 
-I plan on releasing the first version shortly. Watch this wiki for a link to the application on Android Market when it's available :)
+<a href="http://market.android.com/details?id=net.usikkert.kouchat.android">
+  <img src="http://www.android.com/images/brand/60_avail_market_logo2.png" alt="Available in Android Market" />
+</a>
