@@ -4,6 +4,18 @@
 = News =
 
 
+== 29.11.2011 - KouChat goes Android ==
+
+The first release of KouChat for Android is now available on Android Market!
+More details [Android here].
+
+
+-- Christian Ihle
+
+
+----
+
+
 == 15.11.2009 - KouInject goes public ==
 
 I've been working on a dependency injection framework for use in KouChat. This code is now released as a new project called [http://kouinject.googlecode.com/ KouInject]. Since the project is unknown for everyone except myself, I'll advertise the release here ;)
