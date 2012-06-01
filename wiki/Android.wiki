@@ -4,6 +4,6 @@
 I'm currently working on a port of KouChat to Android.
 The code is available on GitHub: https://github.com/blurpy/kouchat-android
 
-<a href="http://market.android.com/details?id=net.usikkert.kouchat.android">
-  <img src="http://www.android.com/images/brand/60_avail_market_logo2.png" alt="Available in Android Market" />
+<a href="https://play.google.com/store/apps/details?id=net.usikkert.kouchat.android">
+  <img src="http://www.android.com/images/brand/get_it_on_play_logo_large.png" alt="Get KouChat on Google play" />
 </a>
