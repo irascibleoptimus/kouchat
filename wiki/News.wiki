@@ -4,6 +4,20 @@
 = News =
 
 
+== 04.06.2012 - KouChat for Android v0.5.1 is out! ==
+
+This release adds support for Android 4.0, Ice Cream Sandwich.
+Get it on Google play, or download the apk from github. Links [Android here].
+
+I've also been working on KouChat (desktop) v1.1.0, and hope to release it soon. Stay tuned!
+
+
+-- Christian Ihle
+
+
+----
+
+
 == 29.11.2011 - KouChat goes Android ==
 
 The first release of KouChat for Android is now available on Android Market!
