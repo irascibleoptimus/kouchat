@@ -8,12 +8,14 @@ This is my current plan for the future of KouChat. Don't rely on this plan! It c
 If you have any suggestions, please use the issue tracker.
 
 
-== Version 1.1.0 ==
+== Version 1.2.0 ==
 
-  * Minimize on close (issue 8)
   * Animated system tray icon (issue 11)
   * Multi-line messages (issue 12)
-  * System tray balloon on new message (issue 13)
+  * Show/Hide menu items in the system tray right click menu
+  * Fix Event Dispatch Thread usage
+  * User specified network interface
+  * Test KouInject
 
 
 == Version 2.0 ==
