@@ -27,8 +27,6 @@ Changelog:
 
 Hope you enjoy this new release! My focus is now on the Android version again.
 
-_Note: I uploaded an unsigned kouchat-1.1.0.jar by mistake, and replaced the download shortly after with the correct file. However, it seems like Google caches the old file. The correct file is 473kb, and the old is 456kb. If the cache does not expire soon I will delete the file and re-upload using a different name._
-
 
 -- Christian Ihle
 
