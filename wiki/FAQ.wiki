@@ -115,3 +115,35 @@ I don't know! But I'm unable to reproduce the problem using early versions of Ja
 ==== 16. I have a great suggestion for a new feature. What do I do? ====
 
 Cool :) Just register the suggestion on the issue tracker with "_feature request_" in the title.
+
+
+==== 17. KouChat uses the wrong network interface. How can I switch? ====
+
+Typical use cases include:
+
+ * You want to connect to the wired network by default, but KouChat keeps connecting to the wireless network.
+ * KouChat connects using a "fake" network interface that ships with virtualization software like VMware and Virtual Box.
+
+You can override the network interface chosen by KouChat in the settings.
+Choose one in the list and click OK to switch. Tip: hold the mouse over
+each of the items in the drop down list for more details about the network
+interface, if available.
+
+
+==== 18. How can I get KouChat to open in front of other applications after being unhidden from the system tray in KDE? ====
+
+The window manager in KDE is usually configured with a feature called
+_Focus stealing prevention_. This feature keeps new windows from opening
+in front and stealing focus. However, when unhiding KouChat from the
+system tray it's because one wants to interact with that window, and this
+focus stealing prevention gets in the way.
+
+It can be disabled globally or per application. Here is how to disable for
+KouChat only:
+
+Right click on the title bar of the KouChat window, then click on
+_Advanced/Special Application Settings..._. Go to the rightmost tab,
+called something like _Workarounds_ or _Appearance & Fixes_
+(depends on the version of KDE). Enable the checkbox on
+_Focus stealing prevention_, and set it to _Force_ and _None_ in the 2
+drop down lists, then click OK to save.
