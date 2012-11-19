@@ -28,7 +28,7 @@ http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_privchat_opensuse_n
 
 === Settings ===
 
-http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_settings_opensuse_nimbus.png
+http://kouchat.googlecode.com/svn/site/images/kouchat_v1.2.0_settings_opensuse_nimbus.png
 
 
 == Kubuntu ==
