@@ -4,6 +4,31 @@
 = News =
 
 
+== 08.12.2012 - KouChat for Android v0.6.0 is out! ==
+
+Now it's time for Android! This release adds support for private chats, opening links in the browser on click, and a few other small improvements.
+
+Please note: like the desktop version, the license has changed to the LGPL v3.
+
+Changelog:
+
+ * Imported backend code from KouChat v1.2.0 for desktop
+ * Changed license from GPL v3 to LGPL v3
+ * Added support for private chat
+ * Made links clickable in the chat
+ * Made sure the text view is scrolled to the bottom when orientation changes
+ * Updated the title of the main chat to not mention a topic if the topic is not set
+ * Made it easier to see who you are in the user list by making "you" appear in bold text
+
+Get it on Google play, or download the apk from github. See [Android] for links.
+
+
+-- Christian Ihle
+
+
+----
+
+
 == 19.11.2012 - KouChat v1.2.0 is out! ==
 
 It's release time again! Highlights in this release includes the option to choose which network interface to use, prescaled icons that looks much better than the old ones that Java scaled on the fly, simpler commands for file transfers in console mode, and several bug fixes.
