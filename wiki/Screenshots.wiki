@@ -11,9 +11,9 @@ This is a collection of screenshots showing KouChat in different operating syste
 
 == openSUSE ==
 
-openSUSE 11.0 with KDE 3.5. The look and feel used here is the new Nimbus from Java 6 update 10.
+openSUSE 11.4 with KDE 4.6. The look and feel used here is Nimbus.
 
-http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_main_opensuse_nimbus.png
+http://kouchat.googlecode.com/svn/site/images/kouchat_v1.2.0_main_chat_opensuse_nimbus.png
 
 
 === File transfer ===
