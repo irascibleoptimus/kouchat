@@ -18,12 +18,14 @@ http://kouchat.googlecode.com/svn/site/images/kouchat_v1.2.0_main_chat_opensuse_
 
 === File transfer ===
 
+*TODO: update screenshot*
+
 http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_file_transfer_opensuse_nimbus.png
 
 
 === Private chat ===
 
-http://kouchat.googlecode.com/svn/site/images/kouchat_v0.9.9_privchat_opensuse_nimbus.png
+http://kouchat.googlecode.com/svn/site/images/kouchat_v1.2.0_private_chat_opensuse_nimbus.png
 
 
 === Settings ===
