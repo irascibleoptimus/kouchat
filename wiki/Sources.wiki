@@ -1,3 +1,6 @@
 #summary Where to find the sources
 
-The source code is now hosted on GitHub: https://github.com/blurpy/kouchat
+The source code is now hosted on GitHub: 
+
+ * https://github.com/blurpy/kouchat
+ * https://github.com/blurpy/kouchat-android
