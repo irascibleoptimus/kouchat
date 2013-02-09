@@ -4,6 +4,22 @@
 = News =
 
 
+== 09.02.2013 - KouChat for Android v0.7.0 is out! ==
+
+A short changelog this time:
+
+- Added support for smileys
+
+Hope this brightens up your day :)
+Get it on Google play, or download the apk from the downloads section.
+
+
+-- Christian Ihle
+
+
+----
+
+
 == 15.12.2012 - GitHub removed all downloads ==
 
 GitHub has decided that they don't want to host downloads anymore. I used to have the Android apk-files there, for those unable to install KouChat from Google play. The files have been moved to the downloads section of this site instead. 
