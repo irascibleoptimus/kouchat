@@ -1,5 +1,4 @@
 #summary KouChat for Android
-#labels Featured
 
 I'm currently working on a port of KouChat to Android.
 The code is available on GitHub: https://github.com/blurpy/kouchat-android
