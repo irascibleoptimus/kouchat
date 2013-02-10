@@ -8,7 +8,7 @@
 
 A short changelog this time:
 
- * Added support for smileys
+ * Added support for smileys: :)  :(  :p  :D  ;)  :O  :@  :S  ;(  :$  8)
 
 Hope this brightens up your day :)
 Get it on Google play, or download the apk from the downloads section.
