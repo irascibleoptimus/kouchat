@@ -81,7 +81,13 @@ http://kouchat.googlecode.com/svn/site/images/kouchat_v1.0.0-dev_main_console.pn
 
 This is what the Android version looks like.
 
-http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.8.0_screenshot_main_chat.png
+http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.9.0_screenshot_main_chat.png
+
+
+=== File transfer ===
+
+http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.9.0_screenshot_send_file_gallery.png
+
 
 === Private chat ===
 
