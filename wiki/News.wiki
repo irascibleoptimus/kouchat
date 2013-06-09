@@ -4,6 +4,32 @@
 = News =
 
 
+== 09.06.2013 - KouChat for Android v0.9.0 is out! ==
+
+Another release is out! This time I've mostly been working on file transfer support. It's not finished yet, but you can now send files. You won't see the progress of the file transfer (until it's completed), and you can not cancel. The receiver can, though. Since receiving files is not implemented yet, you can only send files to users of the desktop client.
+
+And how do you send a file? You use the "share" feature in different Android applications, like the Gallery:
+
+<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.9.0_screenshot_send_file_gallery.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.9.0_screenshot_send_file_gallery.png" alt="KouChat for Android" height="500" /></a>
+
+I've also added support for devices that require extra permissions to use multicast networking, like the HTC One phone. I don't know how many devices that have that requirement, but if you could not get KouChat to work on your Android device with previous versions, then try this one :)
+
+Changelog:
+
+ * Improved error handling in the private chat.
+ * Added basic support for sending files to other users with the "share/send to" feature in Android apps like the Gallery or different file managers.
+ * Added wifi as a required feature in the manifest.
+ * Added support for HTC One (and probably others), which require extra permissions and a MulticastLock to use multicast.
+
+Get it on Google play, or download the apk from the downloads section.
+
+
+-- Christian Ihle
+
+
+----
+
+
 == 07.04.2013 - KouChat for Android v0.8.0 is out! ==
 
 I've been working on notifications this time. So now you can see who is currently writing in the main chat, and you will find a notification icon in the notification area. When a new unread message arrives, it will turn green, like the system tray icon in the desktop version.
