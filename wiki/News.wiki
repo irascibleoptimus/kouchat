@@ -4,6 +4,37 @@
 = News =
 
 
+== 28.07.2013 - KouChat for Android v0.10.0 is out! ==
+
+The new modernized user interface is ready! With new high resolution graphics goodness :)
+
+I think it looks a lot better. Judge for yourself, by looking at these before and after screenshots (click to enlarge):
+
+<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.9.0_screenshot_main_chat.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.9.0_screenshot_main_chat.png" alt="Old KouChat for Android" width="400" /></a>  <a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.10.0_screenshot_tablet_10_main_chat.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.10.0_screenshot_tablet_10_main_chat.png" alt="New KouChat for Android" width="400" /></a>
+
+I originally planned to add support for receiving files this time, but I opted for upgrading the user interface instead. I've been waiting for better handling in IntelliJ IDEA regarding usage of APIs that aren't available on all the versions of Android that KouChat supports (<a href="http://tools.android.com/recent/lintapicheck">Lint API Check</a>). And now it became available in IntelliJ IDEA 13 (<a href="http://confluence.jetbrains.com/display/IDEADEV/IDEA+13+EAP">EAP</a>). The Android maven plugin also got support for this, so now my build fails if I use the wrong APIs. Excellent :) So it became a lot safer for me to upgrade the user interface, without worrying about breaking KouChat on e.g. Android 2.3.3.
+
+The smileys that I'm now using are from Gnome 3. Hope you guys don't mind :) The smileys are using the same license as KouChat.
+
+Changelog:
+
+ * Updated to use high resolution icons.
+ * Updated to target API 16 (Android 4.1), to get a more modern look.
+ * Added ActionBar, using ActionBarSherlock for compatibility with API 10 (Android 2.3.3).
+ * Upgraded Robolectric to version 2.1.
+ * Added check for null in onDestroy of different activities to avoid NullPointerExceptions.
+ * Added support for selecting text in the chat. Android 3.0 and newer only.
+ * Stopped the software keyboard from going full screen on some phones in landscape mode.
+ * Added support for avoiding automatic text scroll when the input field has lost focus. Click on some text to remove the focus from the input field. Android 3.0 and newer only.
+
+Hope you like the new interface! Get it on Google play, or download the apk from the downloads section.
+
+-- Christian Ihle
+
+
+----
+
+
 == 09.06.2013 - KouChat for Android v0.9.0 is out! ==
 
 Another release is out! This time I've mostly been working on file transfer support. It's not finished yet, but you can now send files. You won't see the progress of the file transfer (until it's completed), and you can not cancel. The receiver can, though. Since receiving files is not implemented yet, you can only send files to users of the desktop client.
