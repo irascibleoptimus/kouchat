@@ -81,19 +81,19 @@ http://kouchat.googlecode.com/svn/site/images/kouchat_v1.0.0-dev_main_console.pn
 
 This is what the Android version looks like.
 
-http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.9.0_screenshot_main_chat.png
+<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.10.0_screenshot_tablet_10_main_chat.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.10.0_screenshot_tablet_10_main_chat.png" alt="KouChat for Android main chat" width="800" /></a>
 
 
 === File transfer ===
 
-http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.9.0_screenshot_send_file_gallery.png
+<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.10.0_screenshot_tablet_10_send_file_gallery.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.10.0_screenshot_tablet_10_send_file_gallery.png" alt="KouChat for Android file transfer" width="800" /></a>
 
 
 === Private chat ===
 
-http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.8.0_screenshot_private_chat.png
+<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.10.0_screenshot_tablet_10_private_chat.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.10.0_screenshot_tablet_10_private_chat.png" alt="KouChat for Android private chat" width="800" /></a>
 
 
 === Settings ===
 
-http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.8.0_screenshot_settings.png
+<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.10.0_screenshot_tablet_10_settings.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.10.0_screenshot_tablet_10_settings.png" alt="KouChat for Android settings" width="800" /></a>
