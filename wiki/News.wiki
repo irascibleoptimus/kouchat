@@ -15,7 +15,7 @@ The file transfer work is not finished though. You still can't cancel an ongoing
 
 I've also been fixing some memory leaks, which should make everything work a bit smoother on older devices.
 
-And I've registered the domain www.kouchat.net. Nothing there yet, except a redirect here. Maybe I'll set up a more exciting site there later.
+And I've registered the domain [http://www.kouchat.net www.kouchat.net]. Nothing there yet, except a redirect here. Maybe I'll set up a more exciting site there later.
 
 Changelog:
  * Fixed several issues leading to memory leaks.
