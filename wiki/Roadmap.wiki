@@ -1,5 +1,4 @@
 #summary The road ahead for KouChat
-#labels Featured
 
 = Roadmap =
 
