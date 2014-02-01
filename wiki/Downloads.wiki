@@ -1,7 +1,5 @@
 #summary Downloads for KouChat
 
-= Downloads =
-
 Downloads are hosted on Google Drive:
 
   * [https://drive.google.com/folderview?id=0BzU6Rci_wrmJVzVyQUVuOUItYjQ&usp=drive_web KouChat]
