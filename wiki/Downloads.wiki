@@ -2,7 +2,7 @@
 
 = Downloads =
 
-Downloads are now hosted on Google Drive:
+Downloads are hosted on Google Drive:
 
   * [https://drive.google.com/folderview?id=0BzU6Rci_wrmJVzVyQUVuOUItYjQ&usp=drive_web KouChat]
   * [https://drive.google.com/folderview?id=0BzU6Rci_wrmJYV9HTFhaOGlKVkk&usp=drive_web KouChat Android]
