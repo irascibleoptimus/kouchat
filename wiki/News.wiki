@@ -13,9 +13,9 @@ The tweaks mostly consists of extra padding, and increased font sizes (on tablet
 
 <a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_main_chat.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_main_chat.png" alt="New KouChat for Android" height="500" /></a>
 
-I hoped these changes would get KouChat accepted as a "tablet app" on Google play, but I failed. The store still displays a warning that this is a "phone app" when visiting from a tablet. I'm getting tired of this. Tips are welcome!
+I hoped these changes would get KouChat accepted as a "tablet app" on Google Play, but I failed. The store still displays a warning that this is a "phone app" when visiting from a tablet. I'm getting tired of this. Tips are welcome!
 
-Google also [http://google-opensource.blogspot.no/2013/05/a-change-to-google-code-download-service.html deprecated] the downloads here on Google code, so I'm unable to add any more downloads. As a workaround I have added the latest releases of KouChat and KouChat Android to a Google drive account. Links to both are available in the new downloads section.
+Google also [http://google-opensource.blogspot.no/2013/05/a-change-to-google-code-download-service.html deprecated] the downloads here on Google Code, so I'm unable to add any more downloads. As a workaround I have added the latest releases of KouChat and KouChat Android to a Google Drive account. Links to both are available in the new downloads section.
 
 The changelog:
 
@@ -28,7 +28,7 @@ The changelog:
   * Messages are trimmed before added to the chat, to avoid blank lines.
   * Fixed bug where it was possible to remove KouChat notifications by swiping on some devices.
 
-Get it on Google play, or download the apk from the downloads section.
+Get it on Google Play, or download the apk from the downloads section.
 
 
 -- Christian Ihle
@@ -65,7 +65,7 @@ Anyways, here's the full changelog:
  * Added xxxhdpi launcher icon for the Nexus 5.
  * Fixed bug where the file reception dialog was unable to find the file transfer request.
 
-Get it on Google play, or download the apk from the downloads section.
+Get it on Google Play, or download the apk from the downloads section.
 
 
 -- Christian Ihle
@@ -93,7 +93,7 @@ Changelog:
  * Upgraded ActionBarSherlock to version 4.4.0.
  * Changed contact information to use the new kouchat.net domain.
 
-Get it on Google play, or download the apk from the downloads section.
+Get it on Google Play, or download the apk from the downloads section.
 
 
 -- Christian Ihle
@@ -125,7 +125,7 @@ Changelog:
  * Stopped the software keyboard from going full screen on some phones in landscape mode.
  * Added support for avoiding automatic text scroll when the input field has lost focus. Click on some text to remove the focus from the input field. Android 3.0 and newer only.
 
-Hope you like the new interface! Get it on Google play, or download the apk from the downloads section.
+Hope you like the new interface! Get it on Google Play, or download the apk from the downloads section.
 
 -- Christian Ihle
 
@@ -150,7 +150,7 @@ Changelog:
  * Added wifi as a required feature in the manifest.
  * Added support for HTC One (and probably others), which require extra permissions and a MulticastLock to use multicast.
 
-Get it on Google play, or download the apk from the downloads section.
+Get it on Google Play, or download the apk from the downloads section.
 
 
 -- Christian Ihle
@@ -171,7 +171,7 @@ Changelog:
  * Added notification support, with an icon and a status text shown in the notification area. White icon means nothing to notify. Green icon means new unread messages.
 
 Have fun :)
-Get it on Google play, or download the apk from the downloads section.
+Get it on Google Play, or download the apk from the downloads section.
 
 
 -- Christian Ihle
@@ -187,7 +187,7 @@ A short changelog this time:
  * Added support for smileys: :)  :(  :p  :D  ;)  :O  :@  :S  ;(  :$  8)
 
 Hope this brightens up your day :)
-Get it on Google play, or download the apk from the downloads section.
+Get it on Google Play, or download the apk from the downloads section.
 
 
 -- Christian Ihle
@@ -198,7 +198,7 @@ Get it on Google play, or download the apk from the downloads section.
 
 == 15.12.2012 - GitHub removed all downloads ==
 
-GitHub has decided that they don't want to host downloads anymore. I used to have the Android apk-files there, for those unable to install KouChat from Google play. The files have been moved to the downloads section of this site instead. 
+GitHub has decided that they don't want to host downloads anymore. I used to have the Android apk-files there, for those unable to install KouChat from Google Play. The files have been moved to the downloads section of this site instead. 
 
 I wish they had notified me about the change, instead of just removing the functionality and making me "google" the reason. Anyway, the announcement from GitHub can be read here: https://github.com/blog/1302-goodbye-uploads
 
@@ -225,7 +225,7 @@ Changelog:
  * Updated the title of the main chat to not mention a topic if the topic is not set
  * Made it easier to see who you are in the user list by making "you" appear in bold text
 
-Get it on Google play, or download the apk from github. See [Android] for links.
+Get it on Google Play, or download the apk from github. See [Android] for links.
 
 
 -- Christian Ihle
@@ -299,7 +299,7 @@ Hope you enjoy this new release! My focus is now on the Android version again.
 == 04.06.2012 - KouChat for Android v0.5.1 is out! ==
 
 This release adds support for Android 4.0, Ice Cream Sandwich.
-Get it on Google play, or download the apk from github. Links [Android here].
+Get it on Google Play, or download the apk from github. Links [Android here].
 
 I've also been working on KouChat (desktop) v1.1.0, and hope to release it soon. Stay tuned!
 
