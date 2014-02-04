@@ -13,7 +13,7 @@ The tweaks mostly consists of extra padding, and increased font sizes (on tablet
 
 <a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_main_chat.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_main_chat.png" alt="New KouChat for Android" height="500" /></a>
 
-I hoped these changes would get KouChat accepted as a "tablet app" on Google Play, but I failed. The store still displays a warning that this is a "phone app" when visiting from a tablet. I'm getting tired of this. Tips are welcome!
+I hoped these changes would get KouChat accepted as a "tablet app" on Google Play, but I failed. The store still displays a warning that this is a "phone app" when visiting from a tablet. D'oh! Tips are welcome!
 
 Google also [http://google-opensource.blogspot.no/2013/05/a-change-to-google-code-download-service.html deprecated] the downloads here on Google Code, so I'm unable to add any more downloads. As a workaround I have added the latest releases of KouChat and KouChat Android to a Google Drive account. Links to both are available in the new downloads section.
 
