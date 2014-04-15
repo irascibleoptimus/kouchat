@@ -81,14 +81,15 @@ http://kouchat.googlecode.com/svn/site/images/kouchat_v1.0.0-dev_main_console.pn
 
 This is what the Android version looks like.
 
-<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_main_chat.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_main_chat.png" alt="KouChat for Android main chat" width="800" /></a>
+<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.14.0_screenshot_tablet_10_main_chat.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.14.0_screenshot_tablet_10_main_chat.png" alt="KouChat for Android main chat" width="800" /></a>
 
 
 === File transfer ===
 
 <a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_send_file_gallery.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_send_file_gallery.png" alt="KouChat for Android file transfer" width="800" /></a>
 
-<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_receive_file.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_receive_file.png" alt="KouChat for Android file transfer" width="800" /></a>
+<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.14.0_screenshot_tablet_10_receive_file.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.14.0_screenshot_tablet_10_receive_file.png" alt="KouChat for Android file transfer" width="800" /></a>
+
 
 === Private chat ===
 
@@ -97,4 +98,4 @@ This is what the Android version looks like.
 
 === Settings ===
 
-<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.12.0_screenshot_tablet_10_settings.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.12.0_screenshot_tablet_10_settings.png" alt="KouChat for Android settings" width="800" /></a>
+<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.14.0_screenshot_tablet_10_settings.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.14.0_screenshot_tablet_10_settings.png" alt="KouChat for Android settings" width="800" /></a>
