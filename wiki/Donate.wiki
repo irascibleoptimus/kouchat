@@ -1,5 +1,4 @@
 #summary Donate using PayPal
-#labels Featured
 
 = Donate using PayPal =
 
