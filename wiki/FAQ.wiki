@@ -6,7 +6,7 @@
 
 ==== 1. What is Kou? ====
 
-Kou is a special cow character I've made. You can see Kou at the [http://superkou.googlecode.com/ Super Kou] project page. Kou is pronounced kind of like cows say _mooooooo_.
+Kou is a special cow character I've made. You can see Kou at the [http://superkou.googlecode.com/ Super Kou] project page. Kou is pronounced kind of like the way cows say _moooo_, but it's OK to just call him Cow.
 
 
 ==== 2. KouChat crashed, doesn't connect, or behaves strangely. ====
