@@ -161,7 +161,7 @@ everything to work correctly:
  * Network detection: UDP port 50050
 
 
-==== 20. The KouChat window is invisible over remote desktop. How can I fix it? =====
+==== 20. The KouChat window is invisible over Remote Desktop. How can I fix it? =====
 
 This happens on some configurations. Try adding "-Dsun.java2d.noddraw=true" to the shortcut command when starting KouChat, like this:
 
