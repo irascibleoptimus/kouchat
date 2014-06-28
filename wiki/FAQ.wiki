@@ -49,7 +49,7 @@ This is a Java bug, see http://bugs.java.com/bugdatabase/view_bug.do?bug_id=6578
 
 ==== 8. How do I enable console mode? ====
 
-From a console, run KouChat like this:
+Run KouChat like this from the command line:
 
 {{{java -jar kouchat-x.x.x.jar --console}}}
 
