@@ -53,7 +53,7 @@ Run KouChat like this from the command line:
 
 {{{java -jar kouchat-x.x.x.jar --console}}}
 
-Write {{{/help}}} for a list of commands you can use while in console mode.
+Type {{{/help}}} for a list of commands you can use while in console mode.
 
 
 ==== 9. How come some messages don't show up in other clients? ====
