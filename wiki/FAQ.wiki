@@ -123,7 +123,7 @@ I don't know! But I'm unable to reproduce the problem using early versions of Ja
 
 ==== 16. I have a great suggestion for a new feature. What do I do? ====
 
-Cool :) Just register the suggestion on the issue tracker with "{{{Feature request}}}" in the title.
+Cool :) Just register the suggestion in the issue tracker with "{{{Feature request}}}" in the title.
 
 
 ==== 17. KouChat uses the wrong network interface. How can I switch? ====
