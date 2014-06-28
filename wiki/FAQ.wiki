@@ -134,9 +134,7 @@ Typical use cases include:
  * KouChat connects using a "fake" network interface that ships with virtualization software like {{{VMware}}} and {{{Virtual Box}}}.
 
 You can override the network interface chosen by KouChat in the settings.
-Choose one in the list and click OK to switch. 
-
-Tip: hold the mouse over each of the items in the drop down list for more details about the network interface, if available.
+Choose one in the list and click OK to switch. Tip: hold the mouse over each of the items in the drop down list for more details about the network interface, if available.
 
 
 ==== 18. How can I get KouChat to open in front of other applications after being unhidden from the system tray in KDE? ====
@@ -160,18 +158,18 @@ called something like {{{Workarounds}}} or {{{Appearance & Fixes}}}
 ==== 19. Which ports do I need to have open in the firewall? ====
 
 If your firewall is blocking network traffic then KouChat will show the text
-"Not connected" in the title bar. The following ports needs to be open for
+"{{{Not connected}}}" in the title bar. The following ports needs to be open for
 everything to work correctly:
 
- * Main chat: UDP port 40556
- * Private chat: UDP port 40656 (increased by one for each running instance)
- * File transfer: TCP port 40756
- * Network detection: UDP port 50050
+ * Main chat: {{{UDP port 40556}}}
+ * Private chat: {{{UDP port 40656}}} (_increased by one for each running instance_)
+ * File transfer: {{{TCP port 40756}}}
+ * Network detection: {{{UDP port 50050}}}
 
 
 ==== 20. The KouChat window is invisible over Remote Desktop. How can I fix it? ====
 
-This happens on some configurations. Try adding "-Dsun.java2d.noddraw=true" to the shortcut command when starting KouChat, like this:
+This happens on some configurations. Try adding '{{{-Dsun.java2d.noddraw=true}}}' to the shortcut command when starting KouChat, like this:
 
 {{{javaw -Dsun.java2d.noddraw=true -jar kouchat-x.x.x.jar}}}
 
