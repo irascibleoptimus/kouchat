@@ -29,17 +29,17 @@ Have a look in the system tray. There should be a small black and white icon the
 
 ==== 4. How do I change my nick name? ====
 
-Open the _Tools_ menu, and choose _Settings_.
+Open the {{{Tools}}} menu, and choose {{{Settings}}}.
 
 
 ==== 5. How do I send files? ====
 
-Right click on a user in the user list on the right side, and choose _"Send file"_. You can also drag and drop a file on a user in the list, or in a private chat window.
+Right click on a user in the user list on the right side, and choose {{{Send file}}}. You can also drag and drop a file on a user in the list, or in a private chat window.
 
 
 ==== 6. How do I open a private chat? ====
 
-You can double click on a user in the user list, or you can right click on a user in the user list and choose _"Private chat"_.
+You can double click on a user in the user list, or you can right click on a user in the user list and choose {{{Private chat}}}.
 
 
 ==== 7. The file chooser is horribly slow in Windows XP. ====
@@ -53,7 +53,7 @@ From a console, run KouChat like this:
 
 {{{java -jar kouchat-x.x.x.jar --console}}}
 
-Write '{{{/help}}}' for a list of commands you can use while in console mode.
+Write {{{/help}}} for a list of commands you can use while in console mode.
 
 
 ==== 9. How come some messages don't show up in other clients? ====
@@ -63,7 +63,7 @@ That's probably because of packet loss. KouChat uses the UDP protocol, which doe
 
 ==== 10. Where do the log files go? ====
 
-The logs are put in '{{{.kouchat/logs/}}}' in your home folder, sorted by date and time of creation.
+The logs are put in {{{.kouchat/logs/}}} in your home folder, sorted by date and time of creation.
 
 Examples:
 
@@ -76,8 +76,8 @@ Examples:
 
 That's because the Windows console uses the old DOS character sets instead of the normal Windows character sets. A common DOS charset is {{{cp850}}} and a common Windows charset is {{{cp1252}}}. I've found 2 ways to go around this problem:
 
-  # Change the console charset to match the Windows charset. If your Windows charset is cp1252, just run the command _chcp 1252_ before starting KouChat like normal. For this to work you need a console font which supports the chosen charset, like _Lucida Console_.
-  # Change the Java charset to match the console charset. You can get the current console charset by running the command _chcp_. Then use the charset number when starting KouChat: _java -Dfile.encoding=850 -jar kouchat-x.x.x.jar --console_.
+  # Change the console charset to match the Windows charset. If your Windows charset is cp1252, just run the command '{{{chcp 1252}}}' before starting KouChat like normal. For this to work you need a console font which supports the chosen charset, like {{{Lucida Console}}}.
+  # Change the Java charset to match the console charset. You can get the current console charset by running the command '{{{chcp}}}'. Then use the charset number when starting KouChat: {{{java -Dfile.encoding=850 -jar kouchat-x.x.x.jar --console}}}
 
 
 ==== 12. Why don't I have the Nimbus look and feel? ====
@@ -89,7 +89,7 @@ newest version of Java.
 
 ==== 13. Where can I find an icon to use for shortcuts? ====
 
-There is an icon available inside _kouchat-x.x.x.jar_, in two different
+There is an icon available inside {{{kouchat-x.x.x.jar}}}, in two different
 formats:
 
   * kou_shortcut.ico
@@ -123,7 +123,7 @@ I don't know! But I'm unable to reproduce the problem using early versions of Ja
 
 ==== 16. I have a great suggestion for a new feature. What do I do? ====
 
-Cool :) Just register the suggestion on the issue tracker with "_feature request_" in the title.
+Cool :) Just register the suggestion on the issue tracker with {{{"Feature request"}}} in the title.
 
 
 ==== 17. KouChat uses the wrong network interface. How can I switch? ====
