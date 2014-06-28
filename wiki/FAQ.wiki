@@ -19,7 +19,7 @@ If you see any errors, write them down. If nothing of interest shows up, then yo
 
 {{{java -jar kouchat-x.x.x.jar --debug}}}
 
-Please check the other wiki pages for help as well. When you can reproduce the problem, report it as an issue on this project page with as many details as possible.
+Please check the other wiki pages for help as well. When you can reproduce the problem, report it as an issue with as many details as possible.
 
 
 ==== 3. I minimized KouChat, and it's not visible on the taskbar anymore. ====
