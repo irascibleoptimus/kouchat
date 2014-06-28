@@ -95,7 +95,7 @@ formats:
   * {{{kou_shortcut.ico}}}
   * {{{kou_shortcut.png}}}
 
-To find these, you can just open the jar file in a decompression utility
+To get these, you can just open the jar file in a decompression utility
 like WinZip or 7-Zip.
 
 
