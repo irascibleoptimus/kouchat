@@ -44,7 +44,7 @@ You can double click on a user in the user list, or you can right click on a use
 
 ==== 7. The file chooser is horribly slow in Windows XP. ====
 
-This is a Java bug, see http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=6578753. As a workaround you can move any zip-files lying on the desktop to some other folder.
+This is a Java bug, see http://bugs.java.com/bugdatabase/view_bug.do?bug_id=6578753. As a workaround you can move any zip-files lying on the desktop to some other folder.
 
 
 ==== 8. How do I enable console mode? ====
