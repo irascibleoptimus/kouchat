@@ -74,10 +74,10 @@ Examples:
 
 ==== 11. Why do non-ascii characters look wrong when using console mode in Windows? ====
 
-That's because the Windows console uses the old DOS character sets instead of the normal Windows character sets. A common DOS charset is {{{cp850}}} and a common Windows charset is {{{cp1252}}}. I've found 2 ways to go around this problem:
+That's because the command line in Windows uses the old DOS character set instead of the normal Windows character set. A common DOS character set is {{{cp850}}} and a common Windows character set is {{{cp1252}}}. I've found 2 ways to go around this problem:
 
-  # Change the console charset to match the Windows charset. If your Windows charset is cp1252, just run the command '{{{chcp 1252}}}' before starting KouChat like normal. For this to work you need a console font which supports the chosen charset, like {{{Lucida Console}}}.
-  # Change the Java charset to match the console charset. You can get the current console charset by running the command '{{{chcp}}}'. Then use the charset number when starting KouChat: {{{java -Dfile.encoding=850 -jar kouchat-x.x.x.jar --console}}}
+  # Change the character set on the command line to match the character set used by Windows. If your Windows character set is cp1252, just run the command '{{{chcp 1252}}}' before starting KouChat. For this to work you need a console font which supports the chosen character set, like {{{Lucida Console}}}.
+  # Change the character set used by Java to match the character set on the command line. You can get the current command line character set by running the command '{{{chcp}}}'. Then use the character set number when starting KouChat: {{{java -Dfile.encoding=850 -jar kouchat-x.x.x.jar --console}}}
 
 
 ==== 12. Why don't I have the Nimbus look and feel? ====
