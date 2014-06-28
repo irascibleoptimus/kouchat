@@ -28,12 +28,12 @@ If you want to send a file to a user, just drag the file on to the user in the u
 
 *5. Use the history*
 
-The last messages you wrote are saved in a history list (only in memory). Press the up and down arrow buttons when the input text field has focus to navigate through the history.
+The last messages you wrote are saved in the history (only in memory). Press the up and down arrow buttons when the input text field has focus to navigate through the history.
 
 
 *6. Click on links*
 
-When URLs are written in the chat, they are made into links. Click on a link to open the URL in your browser. Which browser can be changed in the settings.
+When URLs are written in the chat, they are made into links. Click on a link to open the URL in your browser. Which browser to use can be changed in the settings.
 
 
 *7. Double click to chat private*
