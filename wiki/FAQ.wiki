@@ -11,8 +11,13 @@ Kou is a special cow character I've made. You can see Kou at the [http://superko
 
 ==== 2. KouChat crashed, doesn't connect, or behaves strangely. ====
 
-First, make sure you are using the latest version. When you do, the easiest way to find the problem is for you to run KouChat from the console, like this: _java -jar kouchat-x.x.x.jar_.
-If you see any errors, write them down. If nothing of interest shows up, then you can try enabling debug output by running KouChat like this: _java -jar kouchat-x.x.x.jar --debug_.
+First, make sure you are using the latest version. When you do, the easiest way to find the problem is for you to run KouChat from the console, like this: 
+
+'{{{java -jar kouchat-x.x.x.jar}}}'
+
+If you see any errors, write them down. If nothing of interest shows up, then you can try enabling debug output by running KouChat like this:
+
+'{{{java -jar kouchat-x.x.x.jar --debug}}}'
 
 Please check the other wiki pages for help as well. When you can reproduce the problem, report it as an issue on this project page with as many details as possible.
 
@@ -44,7 +49,11 @@ This is a Java bug, see http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=65787
 
 ==== 8. How do I enable console mode? ====
 
-From a console, run KouChat like this: _java -jar kouchat-x.x.x.jar --console_. See _/help_ for a list of commands you can use while in console mode.
+From a console, run KouChat like this:
+
+'{{{java -jar kouchat-x.x.x.jar --console}}}'
+
+Write '{{{/help}}}' for a list of commands you can use while in console mode.
 
 
 ==== 9. How come some messages don't show up in other clients? ====
@@ -54,18 +63,18 @@ That's probably because of packet loss. KouChat uses the UDP protocol, which doe
 
 ==== 10. Where do the log files go? ====
 
-The logs are put in the _~/.kouchat/logs/_ folder, sorted by date and time of creation. For those wondering, ~ means home folder.
+The logs are put in '{{{.kouchat/logs/}}}' in your home folder, sorted by date and time of creation.
 
 Examples:
 
-  * *Windows XP* - _C:\Documents and Settings\Your Username\.kouchat\logs\_
-  * *Windows Vista* - _C:\Users\Your Username\.kouchat\logs\_
-  * *Linux* - _/home/username/.kouchat/logs/_
+  * Windows XP - {{{C:\Documents and Settings\Your Username\.kouchat\logs\}}}
+  * Windows 7 - {{{C:\Users\Your Username\.kouchat\logs\}}}
+  * Linux - {{{/home/username/.kouchat/logs/}}}
 
 
 ==== 11. Why do non-ascii characters look wrong when using console mode in Windows? ====
 
-That's because the Windows console uses the old DOS character sets instead of the normal Windows character sets. A common DOS charset is cp850 and a common Windows charset is cp1252. I've found 2 ways to go around this problem:
+That's because the Windows console uses the old DOS character sets instead of the normal Windows character sets. A common DOS charset is {{{cp850}}} and a common Windows charset is {{{cp1252}}}. I've found 2 ways to go around this problem:
 
   # Change the console charset to match the Windows charset. If your Windows charset is cp1252, just run the command _chcp 1252_ before starting KouChat like normal. For this to work you need a console font which supports the chosen charset, like _Lucida Console_.
   # Change the Java charset to match the console charset. You can get the current console charset by running the command _chcp_. Then use the charset number when starting KouChat: _java -Dfile.encoding=850 -jar kouchat-x.x.x.jar --console_.
