@@ -142,7 +142,7 @@ Choose one in the list and click OK to switch. Tip: hold the mouse cursor over e
 The window manager in KDE is usually configured with a feature called
 {{{Focus stealing prevention}}}. This feature keeps new windows from opening
 in front and stealing focus. However, when unhiding KouChat from the
-system tray it's because one wants to interact with that window, and this
+system tray it's usually because one wants to interact with the window, and the
 focus stealing prevention gets in the way.
 
 It can be disabled globally or per application. Here is how to disable for
@@ -183,4 +183,4 @@ Add the startup argument '{{{--minimized}}}' to the shortcut or script that star
 {{{java -jar kouchat-x.x.x.jar --minimized}}}
 
 Put the shortcut or script in the startup/autostart folder of your operating
-system to run automatically when you log in.
+system to run automatically on boot.
