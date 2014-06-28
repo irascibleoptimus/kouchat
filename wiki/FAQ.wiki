@@ -92,8 +92,8 @@ newest version of Java.
 There is an icon available inside {{{kouchat-x.x.x.jar}}}, in two different
 formats:
 
-  * kou_shortcut.ico
-  * kou_shortcut.png
+  * {{{kou_shortcut.ico}}}
+  * {{{kou_shortcut.png}}}
 
 To find these, you can just open the jar file in a decompression utility
 like WinZip or 7-Zip.
