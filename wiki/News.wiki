@@ -94,7 +94,7 @@ The first release of the year is here :)
 The focus this time has been minor tweaks to the user interface, and bug fixes.
 The tweaks mostly consists of extra padding, and increased font sizes (on tablets).
 
-<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_main_chat.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_main_chat.png" alt="New KouChat for Android" /></a> dfg
+<a href="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_main_chat.png"><img src="http://kouchat.googlecode.com/svn/site/images/kouchat_android_v0.13.0_screenshot_tablet_10_main_chat.png" alt="New KouChat for Android" /></a>
 
 I hoped these changes would get KouChat accepted as a "tablet app" on Google Play, but I failed. The store still displays a warning that this is a "phone app" when visiting from a tablet. D'oh! Tips are welcome!
 
