@@ -2,5 +2,5 @@
 
 The source code is hosted on GitHub: 
 
- * https://github.com/blurpy/kouchat
- * https://github.com/blurpy/kouchat-android
+ * [https://github.com/blurpy/kouchat KouChat]
+ * [https://github.com/blurpy/kouchat-android KouChat for Android]
