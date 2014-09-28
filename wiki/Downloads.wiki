@@ -3,4 +3,4 @@
 Downloads are hosted on GitHub:
 
   * [https://github.com/blurpy/kouchat/releases KouChat]
-  * [https://github.com/blurpy/kouchat-android/releases KouChat Android]
+  * [https://github.com/blurpy/kouchat-android/releases KouChat for Android]
